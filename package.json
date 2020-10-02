@@ -1,0 +1,26 @@
+{
+  "name": "galaxybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7",
+    "ms": "^2.1.2",
+    "novelcovid": "^2.2.0",
+    "profanities": "^2.14.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
