@@ -3,6 +3,8 @@
 Galaxy is a general purpose bot built for discord. This was one of my side projects during the COVID-19 pandemic. This bot was invited into 1000+ servers and was used by 350,000 members.
 For more information, check the [official website](https://www.galaxybot.xyz/).
 
+
+
 ## FAQs
 
 **1. Who is the developer of this bot? And what are the contact details?**
