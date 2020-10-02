@@ -17,7 +17,7 @@ Yes! I am a Verified Discord bot developer and the bot has been verified by Disc
 
 As much I as would love to keep it online and maintain it, AWS costs started sky-rocketing, and I clearly couldn't afford it, and I am not the greatest fan of free half ass hosting services like Heroku. This is why I decided to make the code public, so as to help other aspiring bot dev to have a starting ground. 
 
-## Contribution
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
