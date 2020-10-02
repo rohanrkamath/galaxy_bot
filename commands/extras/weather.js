@@ -28,7 +28,7 @@ module.exports = {
             else {
                 reason = rawReason.join(' ')
             } */
-        var url = "http://api.openweathermap.org/data/2.5/weather?q=" + q + "&APPID=7f4b3f7c110c3e5a77f871002fb55792"; 
+        var url = "http://api.openweathermap.org/data/2.5/weather?q=" + q + "Add your API token"; 
         request(url, function (e, r, b) {
             var p = JSON.parse(b);
             console.log(p);
