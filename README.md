@@ -21,7 +21,7 @@ Yes! I am a Verified Discord bot developer and the bot has been verified by Disc
 
 As much I as would love to keep it online and maintain it, AWS costs started sky-rocketing, and I clearly couldn't afford it, and I am not the greatest fan of free half ass hosting services like Heroku. This is why I decided to make the code public, so as to help other aspiring bot dev to have a starting ground. 
 
-**4. Favourite command?
+**4. Favourite command?**
 
 The covid stats command. It gives the stats all around the world and even individual countries.
 
