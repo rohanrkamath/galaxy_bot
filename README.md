@@ -11,7 +11,7 @@ Galaxy is a general purpose bot built for discord. I used the discord.js api lib
 
 **1. Who is the developer of this bot? And what are the contact details?**
 
-I am solely the creator and developer of this bot. You can contact me on Discord (_Amishhh#1337) or twitter (rohan__kamath).
+I am solely the creator and developer of this bot. You can contact me on Discord (Amish#0001) or twitter (rohan__kamath).
 
 **2. Was the bot verified by Discord?**
 
