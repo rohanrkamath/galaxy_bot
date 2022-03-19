@@ -1,6 +1,6 @@
 # What is Galaxy?
 
-Galaxy is a general purpose bot built for discord. I used the discord.js api library, mongoDB as my storage. This was one of my side projects during the COVID-19 pandemic. This bot was invited into 1000+ servers and was used by 350,000+ members. For more information, check the [official website](https://www.galaxybot.xyz/).
+Galaxy is a general purpose bot built for discord. I used the discord.js api library and mongoDB for my storage. This was one of my side projects during the COVID-19 pandemic. This bot was invited into 1000+ servers and was used by 350,000+ members. For more information, check the [official website](https://www.galaxybot.xyz/).
 
 
 <p align="center">
@@ -11,7 +11,7 @@ Galaxy is a general purpose bot built for discord. I used the discord.js api lib
 
 **1. Who is the developer of this bot? And what are the contact details?**
 
-I am solely the creator and developer of this bot. You can contact me on Discord (Amish#0001) or twitter (rohan__kamath).
+I am solely the creator and developer of this bot.
 
 **2. Was the bot verified by Discord?**
 
@@ -27,9 +27,19 @@ The covid stats command. It gives the stats all around the world and even indivi
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Run the project locally
+
+Before running the code, add the bot credentials in an .dotenv file. 
+
+```
+$ git clone https://github.com/rohanrkamath/galaxy_bot
+$ cd galaxy_bot
+$ npm init
+$ node index.js
+```
+
 
 
 
